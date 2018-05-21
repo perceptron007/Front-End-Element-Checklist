@@ -37,3 +37,5 @@ Checklist For Front End Elements, List of all validations and requirements.
 
 ### Resources
 - Validation Library : [Angular Validation](https://github.com/ghiscoding/angular-validation)
+- FronEndChecklist : [FrontEndChecklist](https://frontendchecklist.io/)
+- Front End Design Checklist : [Front-End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist )
